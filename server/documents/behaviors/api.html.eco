@@ -28,8 +28,8 @@ type        : 'UI Behavior'
         <input type="text" placeholder="Type here...">
       </div>
       <div class="ui hidden divider"></div>
-      <div class="ui primary button">Click Me</div>
-      <div class="ui disabled button">Disabled</div>
+      <div class="ui primary button">Beni Tıkla</div>
+      <div class="ui disabled button">Pasif</div>
     </div>
 
     <div class="no example">
@@ -80,7 +80,7 @@ type        : 'UI Behavior'
   <div class="ui intro tab" data-tab="usage">
     <div class="fixed column">
       <div class="demo content ui sticky">
-        <h4 class="ui sub header">API Example</h4>
+        <h4 class="ui sub header">API Örneği</h4>
         <div class="ui fluid card">
           <div class="image">
             <img src="/images/avatar2/large/patrick.png">
@@ -89,13 +89,13 @@ type        : 'UI Behavior'
             <a class="header">Patrick Russel</a>
             <div class="description">Patrick lives in San Francisco, and studies french literature.</div>
           </div>
-          <div class="ui bottom attached follow button" data-id="22">Follow</div>
+          <div class="ui bottom attached follow button" data-id="22">Takip Et</div>
         </div>
       </div>
     </div>
     <div class="examples">
 
-      <h2 class="ui dividing header">Creating an API</h2>
+      <h2 class="ui dividing header">API Oluşturma</h2>
 
       <div class="no example">
         <h4 class="ui header">API Actions</h4>
@@ -104,7 +104,7 @@ type        : 'UI Behavior'
         <p>URLs listed in your API can include <b>required parameters</b> and <b>optional parameters</b> which may be adjusted for each call.</p>
       </div>
       <div class="no example">
-        <h4 class="ui header">Required Parameters</h4>
+        <h4 class="ui header">Gerekli Parametreler</h4>
         <div class="ui large bulleted list">
           <div class="item">Uses format <code>{variable}</code></div>
           <div class="item"><b>Will abort the request</b> if they cannot be found.</div>
